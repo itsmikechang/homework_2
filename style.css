@@ -11,3 +11,18 @@
 .aboutme {
   margin-top: 10px;
 }
+
+.carousel-inner {
+  max-height: 800px;
+  max-width: 600px;
+}
+.carousel-item {
+  max-height: 800px;
+  max-width: 600px;
+}
+.carousel-indicators {
+  max-height: 200px;
+  max-width: 100px;
+}
+
+
