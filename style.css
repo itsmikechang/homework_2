@@ -32,3 +32,13 @@
 .mynameis {
   word-wrap: break-word;
 }
+
+h1 {
+  padding-left: 55px;
+  padding-top: 20px;
+
+}
+
+p {
+  padding-left: 55px;
+}
